@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sami İnci</h1>
 <h3 align="center">A passionate frontend/mobile app developer from Turkey</h3>
-<img src="https://imsamiinci.github.io/whoissami/assets/images/my-avatar.png">
+<p align="center"><img src="https://imsamiinci.github.io/whoissami/assets/images/my-avatar.png"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsamiinci&label=Profile%20views&color=0e75b6&style=flat" alt="imsamiinci" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imsamiinci" alt="imsamiinci" /></a> </p>
